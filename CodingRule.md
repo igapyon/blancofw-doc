@@ -2,12 +2,14 @@
 
 ## Source
 
++ Must contain license header.
 + Source code encoding : UTF-8
++ Format with Eclipse code format.
 
 ## JAR
 
 + Oldest target java version : 1.6
-+ Compile with Debug option.
++ Compile class file with Debug option.
 
 ## Directory
 
