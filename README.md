@@ -1,5 +1,4 @@
 # blanco Framework Document
 
-## coding rule
++ [Coding Rule](CodingRule.md)
 
-1. Oldest target java version : 1.6
